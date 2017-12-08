@@ -1,0 +1,18 @@
+
+----------get book name----------------------------
+book_names=soup.h1
+
+for i in book_names:
+    print("-----------------------------------------------")
+    book_mes["name"]=i
+bookname=book_mes["name"]
+
+rel_bookname=re.sub(('《'),"",bookname)
+rel_bookname=re.sub(('》'),"",rel_bookname)
+print(rel_bookname)
+-----------------------------------------------
+--------------get url_3----------------------
+for i in book_url_01:
+    if i.span:
+        book_mes["url_3"]=url_0+i['href']
+-----------------------------------------------
