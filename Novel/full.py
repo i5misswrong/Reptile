@@ -8,16 +8,14 @@ url_all={'name': '穿越小说', 'url': 'http://www.jjxsw.com/txt/Chuanyue/',
          'name': '现代言情', 'url': 'http://www.jjxsw.com/txt/Young/',
          'name': '仙侠', 'url': 'http://www.jjxsw.com/txt/Wuxia/'}
 
-url_one={'name': '穿越小说', 'url': 'http://www.jjxsw.com/txt/Chuanyue/'}
+url_one={'name': '穿越小说', 'url': 'http://www.jjxsw.com/txt/Chuanyue/index_2.html'}
 url_01="http://www.jjxsw.com"
 urls=[]
 all_mes=[]
 indexs=1
-for index in indexs:
-    
-    pass
+
 content=urllib.request.urlopen(url_one['url']).read().decode('utf-8')
-soup=BeautifulSoup(content)
+soup=BeautifulSoup(content,"lxml")
 divs=soup.find_all("div",class_="listbg")
 
 for i in divs:
@@ -28,13 +26,13 @@ for i in divs:
 for i in urls:
     book_mes = {"name": "",  # 书名
                 "url_0": "http://www.jjxsw.com",  # 首页
-                "url_1": "http://www.jjxsw.com/txt/Chuanyue/",  # 分类页
+                "url_1": "http://www.jjxsw.com/txt/Chuanyue/index_2.html",  # 分类页
                 "url_2": "",  # 详情页
                 "url_3": "",  # 下载页
                 "url_4": ""}  # 真实下载链接
     book_mes["url_2"]=i
     cont_01=urllib.request.urlopen(i).read().decode('utf-8')
-    soup_01=BeautifulSoup(cont_01)
+    soup_01=BeautifulSoup(cont_01,"lxml")
     divs_01=soup_01.find_all("div",class_="listbg")
     book_names=soup_01.h1
     for i in book_names:
@@ -47,7 +45,7 @@ for i in urls:
         if i.span:
             book_mes["url_3"] = book_mes["url_0"] + i['href']
     cont_02 = urllib.request.urlopen(book_mes["url_3"]).read().decode('utf-8')
-    soup02 = BeautifulSoup(cont_02)
+    soup02 = BeautifulSoup(cont_02,"lxml")
     book_url_02 = soup02.find_all("a")
     s = "http://"
     for i in book_url_02:

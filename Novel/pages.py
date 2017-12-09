@@ -13,8 +13,9 @@ for index in range(2,5):
         url=i.find_all('a')
         for u in url:
             if u.get_text():
-
-                if (re.match(str(index),u.get_text())):
+                if (re.match(u.get_text(),"下一页")):
                     print(u)
+                # if (re.match(str(index),u.get_text())):
+                #     print(u)
             # print(u.get_text())
 # print(divs)
