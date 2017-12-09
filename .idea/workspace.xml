@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8005b2bd-a783-4cb5-8f2b-3ab474c6df6c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BingWallpaper/downloadBingWallpaperNew.pyw" afterPath="$PROJECT_DIR$/BingWallpaper/downloadBingWallpaperNew.pyw" />
-    </list>
+    <list default="true" id="8005b2bd-a783-4cb5-8f2b-3ab474c6df6c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,19 +12,20 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Reptile$drawww.coverage" NAME="drawww Coverage Results" MODIFIED="1512796380598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
     <SUITE FILE_PATH="coverage/Reptile$FindNovel.coverage" NAME="FindNovel Coverage Results" MODIFIED="1512559755297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
-    <SUITE FILE_PATH="coverage/Reptile$full.coverage" NAME="full Coverage Results" MODIFIED="1512648551424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
+    <SUITE FILE_PATH="coverage/Reptile$full.coverage" NAME="full Coverage Results" MODIFIED="1512745006022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
     <SUITE FILE_PATH="coverage/Reptile$DateBaseTest.coverage" NAME="DateBaseTest Coverage Results" MODIFIED="1512735899407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
     <SUITE FILE_PATH="coverage/Reptile$Bingying_Reptile.coverage" NAME="Bingying_Reptile Coverage Results" MODIFIED="1512464069548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bingying" />
     <SUITE FILE_PATH="coverage/Reptile$downloadBingWallpaperNew_pyw.coverage" NAME="downloadBingWallpaperNew.pyw Coverage Results" MODIFIED="1512454024723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BingWallpaper" />
-    <SUITE FILE_PATH="coverage/Reptile$Re_Study.coverage" NAME="Re_Study Coverage Results" MODIFIED="1512732155720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
+    <SUITE FILE_PATH="coverage/Reptile$Re_Study.coverage" NAME="Re_Study Coverage Results" MODIFIED="1512742183092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
     <SUITE FILE_PATH="coverage/Reptile$classify.coverage" NAME="classify Coverage Results" MODIFIED="1512647656311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
+    <SUITE FILE_PATH="coverage/Reptile$pages.coverage" NAME="pages Coverage Results" MODIFIED="1512746961392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Novel" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="FindNovel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Novel/FindNovel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="0">
               <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="Re_Study.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Novel/Re_Study.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="638">
+              <caret line="34" column="35" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="34" selection-end-column="35" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -47,18 +46,27 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="DateBaseTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Novel/DateBaseTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+=======
+      <file leaf-file-name="classify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Novel/classify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
               <folding>
-                <marker date="1512735896026" expanded="true" signature="151:177" ph="select &amp; fro... " />
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="drawww.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Novel/drawww.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,9 +81,13 @@
       </file>
       <file leaf-file-name="classify.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Novel/classify.py">
+=======
+      <file leaf-file-name="full.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Novel/full.py">
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="290">
+              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -83,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="full.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Novel/full.py">
+      <file leaf-file-name="pages.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Novel/pages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            <state relative-caret-position="551">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -98,7 +110,7 @@
       <file leaf-file-name="rep" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Novel/rep">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="406">
               <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="41" />
               <folding />
             </state>
@@ -115,7 +127,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BingWallpaper" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -126,9 +140,13 @@
         <option value="$PROJECT_DIR$/Novel/rep" />
         <option value="$PROJECT_DIR$/Novel/Re_Study.py" />
         <option value="$PROJECT_DIR$/Novel/classify.py" />
-        <option value="$PROJECT_DIR$/Novel/full.py" />
         <option value="$PROJECT_DIR$/Novel/DateBaseTest.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Novel/drawww.py" />
+=======
+        <option value="$PROJECT_DIR$/Novel/full.py" />
+        <option value="$PROJECT_DIR$/Novel/pages.py" />
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
       </list>
     </option>
   </component>
@@ -160,7 +178,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,11 +204,15 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -202,7 +227,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.drawww">
+=======
+  <component name="RunManager" selected="Python.pages">
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
     <configuration name="DateBaseTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +286,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="drawww" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="full" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -270,12 +303,16 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Reptile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Novel/drawww.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Novel/full.py" />
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="full" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -288,7 +325,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Reptile" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Novel/full.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Novel/pages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,6 +335,7 @@
       <item index="1" class="java.lang.String" itemvalue="Python.classify" />
       <item index="2" class="java.lang.String" itemvalue="Python.full" />
       <item index="3" class="java.lang.String" itemvalue="Python.DateBaseTest" />
+<<<<<<< HEAD
       <item index="4" class="java.lang.String" itemvalue="Python.drawww" />
     </list>
     <recent_temporary>
@@ -306,6 +344,16 @@
         <item index="1" class="java.lang.String" itemvalue="Python.DateBaseTest" />
         <item index="2" class="java.lang.String" itemvalue="Python.Re_Study" />
         <item index="3" class="java.lang.String" itemvalue="Python.full" />
+=======
+      <item index="4" class="java.lang.String" itemvalue="Python.pages" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.pages" />
+        <item index="1" class="java.lang.String" itemvalue="Python.full" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Re_Study" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DateBaseTest" />
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
         <item index="4" class="java.lang.String" itemvalue="Python.classify" />
       </list>
     </recent_temporary>
@@ -324,15 +372,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24761905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24739583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.668942" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -353,11 +405,75 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/BingWallpaper" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Novel/FindNovel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Novel/Re_Study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Novel/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Novel/full.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Novel/rep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Novel/DateBaseTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1512741626325" expanded="true" signature="151:177" ph="select book_... test" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Novel/FindNovel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -537,7 +653,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
           <folding>
-            <marker date="1512735896026" expanded="true" signature="151:177" ph="select &amp; fro... " />
+            <marker date="1512741626325" expanded="true" signature="151:177" ph="select book_... test" />
           </folding>
         </state>
       </provider>
@@ -655,20 +771,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BingWallpaper/downloadBingWallpaperNew.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BingWallpaper/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/BingWallpaper/downloadBingWallpaperNew.pyw" />
+    <entry file="file://$PROJECT_DIR$/BingWallpaper/README.md" />
     <entry file="file://$PROJECT_DIR$/bingying/Bingying_Reptile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -676,20 +780,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BingWallpaper/downloadBingWallpaperNew.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BingWallpaper/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/BingWallpaper/downloadBingWallpaperNew.pyw" />
+    <entry file="file://$PROJECT_DIR$/BingWallpaper/README.md" />
     <entry file="file://C:/ProgramData/Anaconda3/Lib/http/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
@@ -699,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Novel/rep">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="406">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="41" />
           <folding />
         </state>
@@ -721,7 +813,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Novel/FindNovel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="0">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -736,10 +828,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Novel/DateBaseTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1512741626325" expanded="true" signature="151:177" ph="select book_... test" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Novel/Re_Study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Novel/classify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="578">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -748,30 +860,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Novel/full.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="290">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Novel/Re_Study.py">
+    <entry file="file://$PROJECT_DIR$/Novel/pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Novel/DateBaseTest.py">
-      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="198">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+=======
+        <state relative-caret-position="551">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+>>>>>>> 836612f6d3c2e6dfdb472503e8047b1f29c15c4d
           <folding>
-            <marker date="1512735896026" expanded="true" signature="151:177" ph="select &amp; fro... " />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
